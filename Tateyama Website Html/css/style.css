@@ -1,0 +1,119 @@
+.list-inline-tabs{
+    padding: 5px;
+}
+
+.nav-tabs-style{
+    background-color: #3399FF;
+    margin: 0px;
+    border-bottom: 1px solid #dee2e6 !important;
+    padding: 0px;
+}
+
+
+.header{
+    padding-bottom: 0px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    border-bottom: 0px solid #dee2e6!important;
+    z-index: 1;
+}
+
+.nav-link{
+    color: #dee2e6;
+}
+
+a.nav-link:active{
+    background-color: grey;
+    color: #dee2e6;
+}
+
+.list-box{
+    background-color: grey;
+    color: #dee2e6;
+}
+ 
+.list-link{
+    color: #dee2e6;
+    padding: 0px;
+    margin: 0px;
+}
+
+.list-link:hover{
+    color: black;
+    text-decoration: none;
+}
+
+a.nav-link:hover{
+    color: black;
+}
+
+.press-release-box{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    background-color: #D3D3D3;
+}
+
+.info-footer{
+    height: 40%;
+    width: 100%;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #3399FF;
+    color: #dee2e6;
+}
+
+.title-content{
+    background-color: #3399FF;
+    color: #dee2e6;
+    padding: 10px;
+    position: absolute;
+}
+
+.overlap-box{
+    background-color: rgba(232, 232, 232, 0.8);
+    padding: 10px;
+    margin: 70px;
+    position: absolute;
+    z-index: 1;
+    
+}
+
+.img-overlap{
+    position: relative;
+}
+
+.header-overlap{
+    position: relative;
+    z-index: 100;
+}
+.img-logo{
+    padding: 10px;
+    margin: 20px;
+    position: absolute;
+    z-index: 110;
+    left: 10px;
+    
+}
+
+.nav-link-text{
+    color: black;
+}
+
+.nav-link-text:hover{
+    text-decoration: none;
+}
+
+.block{
+    float: left;
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 10px;
+}
+
+.product-title{
+    background-color: #3399FF;
+    color: #dee2e6;
+    padding: 10px;
+
+}
