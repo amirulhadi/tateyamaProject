@@ -16,6 +16,10 @@
     margin-bottom: 0px !important;
     border-bottom: 0px solid #dee2e6!important;
     z-index: 1;
+    background-position: center;
+    background-size: cover;
+    width : 100%;
+    height:auto;
 }
 
 .nav-link{
